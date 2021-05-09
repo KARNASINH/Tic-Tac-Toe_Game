@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a console base Tic-Tac-Toe game can be played by two players on the console display platform.
+This is a console based Tic-Tac-Toe game that can be played by two players on the console display platform.
 
 ## Programming Language used
 
